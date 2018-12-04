@@ -1,0 +1,11 @@
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\bin\Debug\freecurrencyconverterapi.dll
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\bin\Debug\freecurrencyconverterapi.pdb
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\bin\Debug\RestSharp.dll
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\bin\Debug\RestSharp.xml
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\obj\Debug\freecurrencyconverterapi.csproj.CoreCompileInputs.cache
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\obj\Debug\freecurrencyconverterapi.csproj.CopyComplete
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\obj\Debug\freecurrencyconverterapi.dll
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\obj\Debug\freecurrencyconverterapi.pdb
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\freecurrencyconverterapi\obj\Debug\freecurrencyconverterapi.csprojAssemblyReference.cache

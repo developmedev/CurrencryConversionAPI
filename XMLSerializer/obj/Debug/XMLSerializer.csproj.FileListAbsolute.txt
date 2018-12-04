@@ -1,0 +1,6 @@
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\XMLSerializer\bin\Debug\XMLSerializer.dll
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\XMLSerializer\bin\Debug\XMLSerializer.pdb
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\XMLSerializer\obj\Debug\XMLSerializer.csprojAssemblyReference.cache
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\XMLSerializer\obj\Debug\XMLSerializer.csproj.CoreCompileInputs.cache
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\XMLSerializer\obj\Debug\XMLSerializer.dll
+C:\Users\TerencePillay\source\repos\CurrencyConversionAPI\XMLSerializer\obj\Debug\XMLSerializer.pdb
